@@ -1,0 +1,10 @@
+{
+  "description": "Organize tasks and track progress with a simple, plan-based tool designed to boost productivity and keep users focused on their goals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
